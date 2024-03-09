@@ -2,7 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/NoobsSos/NoobsSos/output/snake.svg" alt="Snake animation" />
 
 ###
 
